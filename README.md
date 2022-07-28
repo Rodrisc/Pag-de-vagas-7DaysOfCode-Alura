@@ -2,7 +2,7 @@
 
 Uma página simples de vagas do evendo da Alura 7DaysOfCode.
 
-Link do Figma para comparação: https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1
+Link do Figma para comparação: https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1 <br/>
 Link do 7 Days of Code: https://7daysofcode.io/
 
 Tecnologias usadas: HTML e CSS
