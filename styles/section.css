@@ -1,0 +1,201 @@
+/* ======= section ======= */
+
+ .metricas-container {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     padding: 0px 40px;
+
+
+
+ }
+
+ .metricas-container div {
+
+     margin: 0px 10px;
+     width: 300px;
+ }
+
+ .metricas-container h1 {
+
+     font-size: 40px;
+     color: var(--main-color);
+ }
+
+ .metricas-container h2 {
+     font-size: 18px;
+     color: #101828;
+ }
+
+ .metricas-container p {
+     color: var(--text-color);
+ }
+
+ /* ============================================= */
+
+ /* Aqui inicia a segunda parte da section */
+
+ .vagas-container {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     padding: 40px 0px;
+
+ }
+
+ .vagas-container h1 {
+     color: var(--main-color);
+     background-color: rgba(142, 36, 36, 0.05);
+     font-size: 14px;
+     font-weight: 500;
+     line-height: 20px;
+     border-radius: 20px;
+     padding: 0px 10px;
+ }
+
+ .vagas-container h2 {
+
+     font-style: normal;
+     font-weight: 600;
+     font-size: 36px;
+     line-height: 44px;
+ }
+
+ .vagas-container p {
+     color: var(--text-color);
+ }
+
+ /* .vagas-container img{
+        padding:30px 0px;
+        width: 900px;
+        height: 300px;
+        left: 112px;
+        top: 298px;
+    
+    
+    } */
+
+ /* ===========================
+    
+        inicia aqui a sessão de vagas */
+ .section-vagas {
+
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+ }
+
+ .container-vagas {
+
+     width: 768px;
+
+ }
+
+ .container-vagas h1 {
+     font-style: normal;
+     font-weight: 500;
+     font-size: 20px;
+     line-height: 30px;
+ }
+
+ .vaga {
+
+     margin: 10px 0px;
+     height: 136px;
+     border: 1px solid #EAECF0;
+     border-radius: 20px;
+ }
+
+ .vaga span {
+     display: inline-block;
+     align-items: center;
+     padding: 20px;
+ }
+
+ .titulo-vaga {
+
+     font-style: normal;
+     font-weight: 500;
+     font-size: 18px;
+     line-height: 28px;
+     color: #101828;
+ }
+
+ .informacoes {
+     font-style: normal;
+     font-weight: 500;
+     font-size: 16px;
+     line-height: 24px;
+     color: #667085;
+ }
+
+ /* ===============================
+     Inicia a sessão de comentários */
+
+ .section-comments {
+     padding: 70px 0px;
+
+     display: flex;
+     align-items: center;
+
+     flex-direction: column;
+ }
+
+ .container-comments {
+
+     background-color: rgba(196, 25, 25, 0.03);
+     border-radius: 20px;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     width: 1216px;
+     height: 404px;
+     padding: 30px;
+ }
+
+ .container-comments div {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+
+ }
+
+ .container-comments h1 {
+
+     font-style: normal;
+     font-weight: 600;
+     font-size: 14px;
+     line-height: 20px;
+     color: var(--main-color);
+
+ }
+
+ .container-comments p {
+     font-style: normal;
+     font-weight: 500;
+     font-size: 36px;
+     line-height: 44px;
+
+     /* or 122% */
+     text-align: center;
+     letter-spacing: -0.02em;
+     color: #101828;
+ }
+
+ .container-comments div p {
+     font-style: normal;
+     font-weight: 500;
+     font-size: 16px;
+     line-height: 24px;
+     color: #101828;
+ }
+
+ .container-comments div span {
+     font-style: normal;
+     font-weight: 400;
+     font-size: 14px;
+     line-height: 20px;
+     color: #667085;
+ }
